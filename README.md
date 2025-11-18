@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JohnMoreno23&color=blue)](https://github.com/JohnMoreno23)
 
-Desenvolvedor web com foco em front-end e automação, código limpo, boas práticas. Atualmente estudando várias ferramentas do ecossistema web e backend. Habilidades em desenvolvimento constante[...]  
+Desenvolvedor web jr. com foco em front-end e automação, código limpo, boas práticas. Atualmente estudando várias ferramentas do ecossistema web e backend. Habilidades em desenvolvimento constante[...]  
 
 ## 🛠️ Tecnologias & Habilidades
 
