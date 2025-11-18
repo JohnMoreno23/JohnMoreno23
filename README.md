@@ -13,11 +13,11 @@ Desenvolvedor web com foco em front-end e automação, código limpo, boas prát
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 <!-- Em aprendizado -->
-![Aprendendo Git](https://img.shields.io/badge/Aprendendo-Git-F05032?logo=git&logoColor=white)
-![Aprendendo SQL](https://img.shields.io/badge/Aprendendo-SQL-003b57?logo=sqlite&logoColor=white)
-![Aprendendo Node.js](https://img.shields.io/badge/Aprendendo-Node.js-339933?logo=node.js&logoColor=white)
-![Aprendendo React](https://img.shields.io/badge/Aprendendo-React-61DAFB?logo=react&logoColor=black)
-![Aprendendo Tailwind CSS](https://img.shields.io/badge/Aprendendo-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Cursando Git](https://img.shields.io/badge/Aprendendo-Git-F05032?logo=git&logoColor=white)
+![Cursando SQL](https://img.shields.io/badge/Aprendendo-SQL-003b57?logo=sqlite&logoColor=white)
+![Cursando Node.js](https://img.shields.io/badge/Aprendendo-Node.js-339933?logo=node.js&logoColor=white)
+![Cursando React](https://img.shields.io/badge/Aprendendo-React-61DAFB?logo=react&logoColor=black)
+![Cursando Tailwind CSS](https://img.shields.io/badge/Aprendendo-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 
 
