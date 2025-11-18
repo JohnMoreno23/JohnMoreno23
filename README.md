@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JohnMoreno23&color=blue)](https://github.com/JohnMoreno23)
 
-Desenvolvedor web com foco em front-end e automação, código limpo, boas práticas. Atualmente estudando várias ferramentas do ecossistema web e backend. Habilidades em desenvolvimento constante.
+Desenvolvedor web com foco em front-end e automação, código limpo, boas práticas. Atualmente estudando várias ferramentas do ecossistema web e backend. Habilidades em desenvolvimento constante[...]  
 
 ## 🛠️ Tecnologias & Habilidades
 
@@ -13,11 +13,11 @@ Desenvolvedor web com foco em front-end e automação, código limpo, boas prát
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 <!-- Em aprendizado -->
-![Cursando Git](https://img.shields.io/badge/Aprendendo-Git-F05032?logo=git&logoColor=white)
-![Cursando SQL](https://img.shields.io/badge/Aprendendo-SQL-003b57?logo=sqlite&logoColor=white)
-![Cursando Node.js](https://img.shields.io/badge/Aprendendo-Node.js-339933?logo=node.js&logoColor=white)
-![Cursando React](https://img.shields.io/badge/Aprendendo-React-61DAFB?logo=react&logoColor=black)
-![Cursando Tailwind CSS](https://img.shields.io/badge/Aprendendo-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Cursando Git](https://img.shields.io/badge/Cursando-Git-F05032?logo=git&logoColor=white)
+![Cursando SQL](https://img.shields.io/badge/Cursando-SQL-003b57?logo=sqlite&logoColor=white)
+![Cursando Node.js](https://img.shields.io/badge/Cursando-Node.js-339933?logo=node.js&logoColor=white)
+![Cursando React](https://img.shields.io/badge/Cursando-React-61DAFB?logo=react&logoColor=black)
+![Cursando Tailwind CSS](https://img.shields.io/badge/Cursando-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 
 
@@ -36,5 +36,3 @@ Desenvolvedor web com foco em front-end e automação, código limpo, boas prát
 - Email: <morenojohn20@outlook.com>
 - LinkedIn: [John Moreno](https://www.linkedin.com/in/john-moreno-a7967a20a)
 - Portfólio: Em breve...
-
-
