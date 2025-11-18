@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá 👋, eu sou o John Moreno!
 
-<!--
-**JohnMoreno23/JohnMoreno23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views](https://komarev.com/ghpvc/?username=JohnMoreno23&color=blue)](https://github.com/JohnMoreno23)
 
-Here are some ideas to get you started:
+Desenvolvedor web com foco em front-end e automação. Gosto de código limpo, boas práticas e aprender novas tecnologias. Atualmente estudando várias ferramentas do ecossistema web e backend. Habilidades em desenvolvimento constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Habilidades
+
+<!-- Habilidades principais -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+<!-- Em aprendizado -->
+![Aprendendo Git](https://img.shields.io/badge/Aprendendo-Git-F05032?logo=git&logoColor=white)
+![Aprendendo SQL](https://img.shields.io/badge/Aprendendo-SQL-003b57?logo=sqlite&logoColor=white)
+![Aprendendo Node.js](https://img.shields.io/badge/Aprendendo-Node.js-339933?logo=node.js&logoColor=white)
+![Aprendendo React](https://img.shields.io/badge/Aprendendo-React-61DAFB?logo=react&logoColor=black)
+![Aprendendo Tailwind CSS](https://img.shields.io/badge/Aprendendo-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+
+
+
+## 📂 Projetos em destaque
+- [Projeto Android](https://github.com/JohnMoreno23/projeto-android/) — Onde replicamos uma pagina estruturada com parceria do mestre Gustavo Guanabara
+- [Projeto Social](https://github.com/JohnMoreno23/projeto-social/) — Criando um modelo de acesso a redes sociais em um dispositivo móvel, projeto do Curso em Video
+- [Projeto Cordel](https://github.com/JohnMoreno23/projeto-cordel/) — Criando um modelo de site que se ajusta a tela do dispositivo, projeto do Curso em Video
+- [Login page1](https://github.com/JohnMoreno23/login1/) — Criando minha primeira pagina de login
+
+## 📈 Minhas estatísticas
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnMoreno23&show_icons=true&theme=tokyonight)](https://github.com/JohnMoreno23)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMoreno23&layout=compact&theme=tokyonight)](https://github.com/JohnMoreno23)
+
+## ✉️ Contato
+- Email: <morenojohn20@outlook.com>
+- LinkedIn: [John Moreno](https://www.linkedin.com/in/john-moreno-a7967a20a)
+- Portfólio: Em breve...
+
+
