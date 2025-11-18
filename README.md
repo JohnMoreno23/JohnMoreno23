@@ -22,7 +22,7 @@ Desenvolvedor web com foco em front-end e automação, código limpo, boas prát
 
 
 ## 📂 Projetos em destaque
-- [Projeto Android](https://github.com/JohnMoreno23/projeto-android/) — Onde replicamos uma pagina estruturada com parceria do mestre Gustavo Guanabara
+- [Projeto Android]([https://github.com/JohnMoreno23/projeto-android/](https://johnmoreno23.github.io/projeto-android/)) — Onde replicamos uma pagina estruturada com parceria do mestre Gustavo Guanabara
 - [Projeto Social](https://github.com/JohnMoreno23/projeto-social/) — Criando um modelo de acesso a redes sociais em um dispositivo móvel, projeto do Curso em Video
 - [Projeto Cordel](https://github.com/JohnMoreno23/projeto-cordel/) — Criando um modelo de site que se ajusta a tela do dispositivo, projeto do Curso em Video
 - [Login page1](https://github.com/JohnMoreno23/login1/) — Criando minha primeira pagina de login
