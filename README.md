@@ -26,6 +26,8 @@ Desenvolvedor web jr. com foco em front-end e automação, código limpo, boas p
 - [Projeto Social](https://github.com/JohnMoreno23/projeto-social/) — Criando um modelo de acesso a redes sociais em um dispositivo móvel, projeto do Curso em Video
 - [Projeto Cordel](https://github.com/JohnMoreno23/projeto-cordel/) — Criando um modelo de site que se ajusta a tela do dispositivo, projeto do Curso em Video
 - [Login page1](https://github.com/JohnMoreno23/login1/) — Criando minha primeira pagina de login
+- [Buscador de receitas](https://johnmoreno23.github.io/buscador-receitas/) — Criando uma pagina que é capaz de buscar receitas via API usando JS, HTML e CSS
+
 
 ## 📈 Minhas estatísticas
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnMoreno23&show_icons=true&theme=tokyonight)](https://github.com/JohnMoreno23)
