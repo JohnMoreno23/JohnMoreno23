@@ -22,10 +22,10 @@ Desenvolvedor web jr. com foco em front-end e automação, código limpo, boas p
 
 
 ## 📂 Projetos em destaque
-- [Projeto Android](https://github.com/JohnMoreno23/projeto-android/) — Onde replicamos uma pagina estruturada com parceria do mestre Gustavo Guanabara
-- [Projeto Social](https://github.com/JohnMoreno23/projeto-social/) — Criando um modelo de acesso a redes sociais em um dispositivo móvel, projeto do Curso em Video
-- [Projeto Cordel](https://github.com/JohnMoreno23/projeto-cordel/) — Criando um modelo de site que se ajusta a tela do dispositivo, projeto do Curso em Video
-- [Login page1](https://github.com/JohnMoreno23/login1/) — Criando minha primeira pagina de login
+- [Projeto Android](https://johnmoreno23.github.io/projeto-android/) — Onde replicamos uma pagina estruturada com parceria do mestre Gustavo Guanabara
+- [Projeto Social](https://johnmoreno23.github.io/projeto-social/) — Criando um modelo de acesso a redes sociais em um dispositivo móvel, projeto do Curso em Video
+- [Projeto Cordel](https://johnmoreno23.github.io/projeto-cordel/) — Criando um modelo de site que se ajusta a tela do dispositivo, projeto do Curso em Video
+- [Login page1](https://johnmoreno23.github.io/login1/) — Criando minha primeira pagina de login
 - [Buscador de receitas](https://johnmoreno23.github.io/buscador-receitas/) — Criando uma pagina que é capaz de buscar receitas via API usando JS, HTML e CSS
 
 
