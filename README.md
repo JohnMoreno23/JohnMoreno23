@@ -29,10 +29,7 @@ Desenvolvedor web jr. com foco em front-end e automação, código limpo, boas p
 - [Buscador de receitas](https://johnmoreno23.github.io/buscador-receitas/) — Criando uma pagina que é capaz de buscar receitas via API usando JS, HTML e CSS
 
 
-## 📈 Minhas estatísticas
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnMoreno23&show_icons=true&theme=tokyonight)](https://github.com/JohnMoreno23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMoreno23&layout=compact&theme=tokyonight)](https://github.com/JohnMoreno23)
 
 ## ✉️ Contato
 - Email: <morenojohn20@outlook.com>
