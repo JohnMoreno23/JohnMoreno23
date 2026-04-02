@@ -28,11 +28,11 @@ Desenvolvedor web jr. com foco em front-end e automação, código limpo, boas p
 - [Login page1](https://johnmoreno23.github.io/login1/) — Criando minha primeira pagina de login
 - [Buscador de receitas](https://johnmoreno23.github.io/buscador-receitas/) — Criando uma pagina que é capaz de buscar receitas via API usando JS, HTML e CSS
 - [Landing page danki code](https://johnmoreno23.github.io/landingdanki/) — Landing page da danki code
-
+- [portfolio em desenvolvimento](https://johnmoreno23.github.io/ptf2/ ) — Acesse o portfolio em produção e veja a produção em desenvolvimento de o que é hoje ao que irá se tornar!
 
 
 
 ## ✉️ Contato
 - Email: <morenojohn20@outlook.com>
 - LinkedIn: [John Moreno](https://www.linkedin.com/in/john-moreno-a7967a20a)
-- Portfólio: Em breve...
+- Portfólio: [portfolio em desenvolvimento](https://johnmoreno23.github.io/ptf2/ ) 
